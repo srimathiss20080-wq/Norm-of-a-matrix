@@ -44,8 +44,10 @@ print(norm)
 [output](Screenshot%202026-03-23%20215450.png)
 
 ### 2-Norm of a Matrix
+
 [output](Screenshot%202026-03-23%20215505.png)
 ### Infinity Norm of a Matrix
+
 [output](Screenshot%202026-03-23%20215706.png)
 
 ## Result
